@@ -1,0 +1,4 @@
+applications:
+- name: wss-danl
+  memory: 128M
+  command: node index.js
